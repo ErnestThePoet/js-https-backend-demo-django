@@ -1,0 +1,1 @@
+django 4.1, django-cors-headers 3.13.0, m2crypto 0.38.0, pycryptodome 3.15.0
